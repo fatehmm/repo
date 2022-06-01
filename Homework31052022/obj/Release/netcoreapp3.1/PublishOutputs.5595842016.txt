@@ -1,0 +1,5 @@
+/Users/fatehmmmdli/Desktop/repo/Homework31052022
+/Users/fatehmmmdli/Desktop/repo/Homework31052022.dll
+/Users/fatehmmmdli/Desktop/repo/Homework31052022.deps.json
+/Users/fatehmmmdli/Desktop/repo/Homework31052022.runtimeconfig.json
+/Users/fatehmmmdli/Desktop/repo/Homework31052022.pdb

@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/bin/Debug/netcoreapp3.1/Homework31052022
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/bin/Debug/netcoreapp3.1/Homework31052022.deps.json
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/bin/Debug/netcoreapp3.1/Homework31052022.runtimeconfig.json
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/bin/Debug/netcoreapp3.1/Homework31052022.runtimeconfig.dev.json
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/bin/Debug/netcoreapp3.1/Homework31052022.dll
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/bin/Debug/netcoreapp3.1/Homework31052022.pdb
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.dll
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.pdb
+/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/obj/Debug/netcoreapp3.1/Homework31052022.genruntimeconfig.cache

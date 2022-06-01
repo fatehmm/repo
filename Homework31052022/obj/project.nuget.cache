@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckQcPRefkCTG1xEiEJI/68yrfcST5OAr5rMAhPEr83EaPWx0tQi96C4XgZM4Ww9prlHLHqJzFP5UyxfMlCiBuw==",
+  "success": true,
+  "projectFilePath": "/Users/fatehmmmdli/Projects/saliamsa/Homework31052022/Homework31052022.csproj",
+  "expectedPackageFiles": [
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
